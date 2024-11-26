@@ -17,5 +17,5 @@ BOT_TOKEN = getenv("BOT_TOKEN", None)
 HEROKU_API_KEY = getenv("HEROKU_API_KEY", "")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6919199044 6762113050").split())
+    map(int, getenv("OWNER_ID", "7564329827 6469162895").split())
 )
